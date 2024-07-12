@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 floodnet/
+sam_b.pt
 .Python
 build/
 develop-eggs/
