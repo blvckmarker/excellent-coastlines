@@ -8,6 +8,7 @@ __pycache__/
 
 # Distribution / packaging
 figures/
+prepared/
 shit/
 dataset/
 floodnet/
